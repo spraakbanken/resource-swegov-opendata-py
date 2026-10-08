@@ -14,6 +14,7 @@ resource-swegov-opendata = "resource_swegov_opendata.presentation.console.main:a
 dev = [{ include-group = "lint" }, { include-group = "test" }]
 lint = [
     "ruff>=0.16.9",
+    "ty>=0.0.84",
 ]
 test = []
 
