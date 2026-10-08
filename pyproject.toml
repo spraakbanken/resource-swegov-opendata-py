@@ -8,7 +8,14 @@ authors = [{ name = "Språkbanken", email = "sb-info@svenska.gu.se" }]
 dependencies = []
 
 [project.scripts]
-resource-swegov-opendata = "resource_swegov_opendata:main"
+resource-swegov-opendata = "resource_swegov_opendata.presentation.console.main:app"
+
+[dependency-groups]
+dev = [{ include-group = "lint" }, { include-group = "test" }]
+lint = [
+    "ruff>=0.16.9",
+]
+test = []
 
 [build-system]
 requires = ["uv_build>=0.12.12,<0.13.0"]
