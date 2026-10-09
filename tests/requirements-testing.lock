@@ -10,8 +10,12 @@ colorama==0.4.6 ; sys_platform == 'win32'
     #   typer
 coverage==7.16.2
     # via pytest-cov
+ijson==3.5.1
+    # via json-arrays
 iniconfig==2.3.0
     # via pytest
+json-arrays==0.15.0
+    # via resource-swegov-opendata
 lxml==6.1.3
     # via resource-swegov-opendata
 markdown-it-py==4.2.0
