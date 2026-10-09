@@ -1,0 +1,15 @@
+# serializer version: 1
+# name: test_preprocess_json[assetsSkriftliga frxe5gor-2002-2005-gq1142.json]
+  '''
+  <dokument dok_id="GQ1142" dokument_url_text="https://data.riksdagen.se/dokument/GQ1142/text" dokument_url_html="https://data.riksdagen.se/dokument/GQ1142" dokumentstatus_url_xml="https://data.riksdagen.se/dokumentstatus/GQ1142"><text fingerprint="8a71f8c753b12bf6" datatyp="huvuddokument" hangar_id="2331495" rm="2002/03" dokumentnamn="Skriftlig fråga" typ="fr" nummer="42" slutnummer="0" title="" beteckning="42" subtyp="" organ="fp" status="" publicerad="2002-10-15" datum="2002-10-15" systemdatum="2009-03-31 14:07:33" upplysning="" intressent_namn_parti="| ()|" intressent_namn="|" intressent_parti="|" intressent_id="|0000000000000|" intressent_namn_parti_id_roll="| (), 0000000000000, besvaradav| (), 0000000000000, stalldtill| (), 0000000000000, undertecknare|">
+      <p>den 15 oktober</p>
+      <p>Fråga 2002/03:42 av <hi rend="#i">Cecilia Nilsson Wigström</hi> (fp) till statsrådet Britta Lejon om neutrala myndigheter</p>
+      <p>Riksskatteverket har under valrörelsen på landets biografer samt i Z-TV, Kanal 5 och MTV kört reklamfilm med slutklämmen "Eller så betalar man skatt". Filmen visar några ungdomar som cyklar runt i en förort där sopor ligger överallt, fotbollsplanen är helt förfallen och det är lervälling på gatorna. En förfallen miljö visas upp och det hela avslutas med "Eller så betalar man skatt". Det övertydliga budskapet är att betalar man inte skatt så förfaller samhället. Det är viktigt att få upp skatteviljan bland ungdomar. Den argumentation som kampanjen valt för att uppnå detta medför dock, rent logiskt, att ett ytterligare budskap förs ut, nämligen att ju mer skatten sänks ju mer förfaller samhället.</p>
+      <p>RSV:s intentioner må vara hur bra som helst, men när regeringen i valrörelsen har gått hårt ut för att värva väljare genom att skrämma medborgarna för skattesänkningar är det inte bra att ett statligt verk går ut med samma budskap. För demokratin i Sverige är det viktigt att statliga myndigheter och verk, även oavsiktligt, håller sig partipolitiskt neutrala. Ett annat exempel där så inte varit fallet är Vägverket som i centrala Göteborg delat ut röda rosor tre veckor innan valet för att be om ursäkt för förseningar på grund av ombyggnader.</p>
+      <p>Min fråga till demokratiministern lyder:</p>
+      <p>På vilket sätt avser ministern att agera för att statliga verk och myndigheter uppträder och agerar politiskt neutralt?</p>
+    </text>
+    </dokument>
+  
+  '''
+# ---
