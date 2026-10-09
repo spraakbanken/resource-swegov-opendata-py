@@ -5,7 +5,9 @@ description = "Tool for preparing Riksdagens Öpnna data for Sparv."
 readme = "README.md"
 requires-python = ">=3.11"
 authors = [{ name = "Språkbanken", email = "sb-info@svenska.gu.se" }]
-dependencies = []
+dependencies = [
+    "lxml>=6.1.3",
+]
 
 [project.scripts]
 resource-swegov-opendata = "resource_swegov_opendata.presentation.console.main:app"
