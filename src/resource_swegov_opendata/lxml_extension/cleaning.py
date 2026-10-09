@@ -8,9 +8,7 @@ def clean_html(text):
     # Remove chars between 0-31 and 127-159, but keep 10 (line break).
     # TODO: does this have any effect?
     text = re.sub(
-        r"&#("
-        + "|".join(str(i) for i in [*range(10), *range(11, 32), *range(127, 160)])
-        + ");",
+        r"&#(" + "|".join(str(i) for i in [*range(10), *range(11, 32), *range(127, 160)]) + ");",
         "",
         text,
     )

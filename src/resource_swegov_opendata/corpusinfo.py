@@ -49,18 +49,13 @@ _CORPUSINFO: dict[str, CorpusInfo] = {
     "fpm": {
         "id": "rd-fpm",
         "names": [("swe", "Riksdagens öppna data: Faktapromemoria")],
-        "descriptions": [
-            ("swe", "Regeringens faktapromemorior om EU-kommissionens förslag")
-        ],
+        "descriptions": [("swe", "Regeringens faktapromemorior om EU-kommissionens förslag")],
     },
     "frsrdg": {
         "id": "rd-frsrdg",
         "names": [("swe", "Riksdagens öppna data: Framställning/redogörelse")],
         "descriptions": [
-            (
-                "swe",
-                "Framställningar och redogörelser från organ som utsetts av riksdagen",
-            )
+            ("swe", "Framställningar och redogörelser från organ som utsetts av riksdagen")
         ],
     },
     "ip": {
@@ -77,10 +72,7 @@ _CORPUSINFO: dict[str, CorpusInfo] = {
         "id": "rd-kom",
         "names": [("swe", "Riksdagens öppna data: KOM")],
         "descriptions": [
-            (
-                "swe",
-                "EU-kommissionens förslag och redogörelser, så kallade KOM-dokument",
-            )
+            ("swe", "EU-kommissionens förslag och redogörelser, så kallade KOM-dokument")
         ],
     },
     "mot": {
@@ -112,10 +104,7 @@ _CORPUSINFO: dict[str, CorpusInfo] = {
         "id": "rd-skfr",
         "names": [("swe", "Riksdagens öppna data: Skriftliga frågor")],
         "descriptions": [
-            (
-                "swe",
-                "Skriftliga frågor från ledamöterna till regeringen och svaren på dessa",
-            )
+            ("swe", "Skriftliga frågor från ledamöterna till regeringen och svaren på dessa")
         ],
     },
     "sou": {
